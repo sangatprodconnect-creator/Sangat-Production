@@ -244,14 +244,15 @@ h3 {
 .hero__actions {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 8px;
   margin-block-end: 24px;
+  padding-block-end: 30px;
 }
 
 .hero__meta {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 15px;
 }
 
 .meta-item {

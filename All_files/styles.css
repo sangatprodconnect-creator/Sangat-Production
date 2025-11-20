@@ -111,9 +111,10 @@ h3 {
 .logo__img {
   inline-size: 32px;
   block-size: 32px;
-  border-radius: 12px;
+  border-radius: 08px;
   object-fit: cover;
   box-shadow: 0 0 18px rgba(56, 189, 248, 0.6);
+  margin-inline-start: 10px;
 }
 
 .logo__text {
